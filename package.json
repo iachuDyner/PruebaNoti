@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-email/components": "0.5.5",
+    "@react-email/link": "0.0.12"
+  }
+}
