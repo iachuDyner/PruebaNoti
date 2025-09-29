@@ -1,0 +1,55 @@
+# Node.js (backend y frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+
+# React Native
+# Archivos y carpetas generadas por React Native
+.expo/
+.expo-shared/
+*.expo
+*.keystore
+
+# Mac OS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+logs
+*.log
+
+# IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+build/
+dist/
+# Android
+android/app/build/
+# iOS
+ios/build/
+Pods/
+*.xcworkspace
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Metro
+.cache/
+
+# Coverage
+coverage/
+*.lcov
+
+# Misc
+*.swp
+*.bak
+*.tmp
