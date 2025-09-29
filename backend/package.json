@@ -1,0 +1,14 @@
+{
+  "name": "pruebanoti-backend",
+  "version": "1.0.0",
+  "description": "Backend para enviar notificaciones por correo",
+  "main": "sendMail.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.8"
+  },
+  "scripts": {
+    "start": "node sendMail.js"
+  }
+}
